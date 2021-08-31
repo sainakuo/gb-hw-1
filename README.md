@@ -1,2 +1,2 @@
 # gb-hw-1
-geekbrains homeworks c++
+Geekbrains Homeworks c++

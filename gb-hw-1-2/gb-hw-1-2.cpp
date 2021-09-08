@@ -69,7 +69,7 @@ int main()
     var.isChar = 0;
 
     //записываем float
-    var.data.b = 5.655;
+    var.data.b = 5.655f;
     var.isInt = 0;
     var.isFloat = 1;
     var.isChar = 0;
